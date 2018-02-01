@@ -1,18 +1,14 @@
-# My cool website
+# lab_instructions.txt
 
-This file describes your project to the community. What's your cool website about? What makes it special?
+In the text will you will find the hw instructions
 
 ヽ(๏∀๏ )ﾉ
 
-## ← index.html
 
-Where you'll write the content of your website. 
 
-## ← styles.css
 
-CSS files add styling rules to your content
 
-## ← script.js
+## ← intro.html
 
-If you're feeling fancy you can add interactivity to your site with Javascript
+pretty much the index.html 
 
