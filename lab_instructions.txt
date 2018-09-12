@@ -32,7 +32,7 @@ For this challenge you’ll be planning and implementing a formatting strategy f
 	     a.	Applies to: Intro.htm
 	     b.	Examine the existing image at the top of the page. Note the class “flowRight” which is used by CSS to control styling. You’ll learn more about this in the chapter on CSS.
 	     c.	Scroll down until you locate the paragraph “Shortly After the 1.0 specification…” At the beginning of that paragraph insert an image that:
-                  i.	points to the 200px-W3C_icon.png in the _images directory
+                  i.	points to the 200px-W3C_icon.png in the assets directory
                   ii.	uses the alt text “W3C logo”
 		  iii.	passes the value of 200 for width, and 136 for height
 		  iv.	applies a class of “flowLeft”			
