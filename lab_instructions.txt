@@ -34,8 +34,8 @@ For this challenge you’ll be planning and implementing a formatting strategy f
 	     c.	Scroll down until you locate the paragraph “Shortly After the 1.0 specification…” At the beginning of that paragraph insert an image that:
                   i.	points to the 200px-W3C_icon.png in the assets directory
                   ii.	uses the alt text “W3C logo”
-		  iii.	passes the value of 200 for width, and 136 for height
-		  iv.	applies a class of “flowLeft”			
+		              iii.	passes the value of 200 for width, and 136 for height
+		              iv.	applies a class of “flowLeft”			
 					
 
 
